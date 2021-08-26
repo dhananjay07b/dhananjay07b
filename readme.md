@@ -14,7 +14,7 @@
 
 <p align="center">
  <!-- <a href="https://linkedin.com/in/parvg"><img src="lld2.png" alt="LinkedIn" height="80" style="vertical-align:top; margin:4px"></a> -->
- <a href="mailto:dhananjaybhardwaj.07@gmail.com"> <img src="gmail.png" alt="" height="70" style="vertical-align:top; margin:4px"></a>
+ <a href="mailto:dhananjaybhardwaj07@gmail.com"> <img src="gmail.png" alt="" height="70" style="vertical-align:top; margin:4px"></a>
  <a href="https://instagram.com/dhananjaybhardwaj07"> <img src="insta.png" alt="Python" height="70" style="vertical-align:top; margin:4px"></a>
 </p>
 
