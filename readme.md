@@ -1,7 +1,7 @@
 # Hi there 👋 I'm Dhananjay Bhardwaj
 <br />
 
-[![Github](https://img.shields.io/github/followers/dhananjay07b?label=Follow&style=social)](https://github.com/parvg555) &nbsp; ![views](https://komarev.com/ghpvc/?username=parvg555)
+[![Github](https://img.shields.io/github/followers/dhananjay07b?label=Follow&style=social)](https://github.com/dhananjay07b) &nbsp; ![views](https://komarev.com/ghpvc/?username=dhananjay07b)
 
 ## 🎓 I'm a BE - Computer Science student at Thapar Institute
 
