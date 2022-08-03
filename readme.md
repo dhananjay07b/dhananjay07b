@@ -27,7 +27,7 @@
 <img src="py.png" alt="PYTHON" height="70" style="vertical-align:top; margin:4px">
 <img src="html.png" alt="HTML" height="70" style="vertical-align:top; margin:4px">
 <img src="vs.png" alt="Visual Studio" height="70" style="vertical-align:top; margin:4px">
-<img src="ij.png" alt="Intellij Idea" height="60" style="vertical-align:top; margin:4px">
+<img src="ij.png" alt="Intellij Idea" height="70" style="vertical-align:top; margin:4px">
 <!-- <img src="js.png" alt="JS" height="70" style="vertical-align:top; margin:4px"> -->
 <!--<img src="django.png" alt="Django" height="70" style="vertical-align:top; margin:4px">-->
 <!--<img src="go.png" alt="Go" height="70" style="vertical-align:top; margin:4px">-->
