@@ -9,7 +9,6 @@
 *   I'm on track for learning more about Artificial Intelligence, Web Development, and Machine Learning.
 *   I'm looking to collaborate with anyone on projects based on Database Management, Web Development.
 *   Feel free to reach out to me for some interesting discussion.
-
 ##  You can also find me on:
 
 <p align="center">
@@ -23,6 +22,7 @@
 ## Languages and Tools I use:
 <p align="center">
 <img src="cpp.png" alt="CPP" height="70" style="vertical-align:top; margin:4px">
+<img src="react.png" alt="react" height="70" style="vertical-align:top; margin:4px">
 <img src="java.png" alt="Java" height="90" style="vertical-align:top; margin:4px">
 <img src="py.png" alt="PYTHON" height="70" style="vertical-align:top; margin:4px">
 <img src="html.png" alt="HTML" height="70" style="vertical-align:top; margin:4px">
