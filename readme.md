@@ -3,7 +3,7 @@
 
 [![Github](https://img.shields.io/github/followers/dhananjay07b?label=Follow&style=social)](https://github.com/dhananjay07b) &nbsp; ![views](https://komarev.com/ghpvc/?username=dhananjay07b)
 
-## I'm a BE - Computer Science student at Thapar Institute
+## I'm a BE - Computer Science graduate from Thapar University
 
 *   I like to explore new technologies and develop software solutions and quick hacks.
 *   I'm on track for learning more about Artificial Intelligence, Web Development, and Machine Learning.
