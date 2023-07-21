@@ -6,8 +6,8 @@
 ## I'm a BE - Computer Science graduate from Thapar University
 
 *   I like to explore new technologies and develop software solutions and quick hacks.
-*   I'm on track for learning more about Artificial Intelligence, Web Development, and Machine Learning.
-*   I'm looking to collaborate with anyone on projects based on Database Management, Web Development.
+*   I'm on track for learning more about Artificial Intelligence, Database Management and Machine Learning.
+*   I'm looking to collaborate with anyone on projects based on Web Development.
 *   Feel free to reach out to me for some interesting discussion.
 ##  You can also find me on:
 
